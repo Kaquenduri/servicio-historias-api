@@ -5,6 +5,7 @@
     "introduccion": "Estás iniciando un nuevo día en el campus de Tecsup, enfocado en tus responsabilidades, pero la tentación digital siempre está al acecho.",
     "narracion": "Eres Antonio Alexander Chunga Alcocer. Estás sentado al fondo del laboratorio de Desarrollo Móvil. El aire acondicionado zumba, pero tú sudas frío: llevas varios minutos texteando con tu vro en lugar de compilar el proyecto. De pronto, el ingeniero deja de escribir en la pizarra, se voltea y clava su mirada directamente en tus ojos. Sientes que si sigues mirando la pantalla del celular, te convertirás en el ejemplo negativo de toda la clase.",
     "imagen": "escena_1_aula",
+    "musica": "track-basic-intro.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -66,6 +67,7 @@
     "introduccion": "Recuperas tu teléfono al final de la sesión, pero el daño psicológico ya está hecho.",
     "narracion": "Te perdiste la mitad de la explicación por estar pensando en quién te estaba escribiendo. Sales del laboratorio sintiéndote un paso atrás de los demás.",
     "imagen": "escena_1_alt_castigo",
+    "musica": "track-basic-intro.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -91,8 +93,9 @@
     "id": "2_1",
     "titulo": "La Tormenta de los Finales",
     "introduccion": "La clase termina, pero la verdadera presión apenas comienza.",
-    "narracion": "Al abrir el portal académico de Tecsup, la realidad te da un periodicazo en la cara. El cronograma de exámenes finales se acaba de publicar y es una masacre: Programación, Base de Datos, Redes y Móviles acumulados. Además, es viernes por la tarde, y los grupos de WhatsApp empiezan a invitar a una fiesta en la facultad.",
+    "narracion": "Al abrir el portal académico de Tecsup, la reality te da un periodicazo en la cara. El cronograma de exámenes finales se acaba de publicar y es una masacre: Programación, Base de Datos, Redes y Móviles acumulados. Además, es viernes por la tarde, y los grupos de WhatsApp empiezan a invitar a una fiesta en la facultad.",
     "imagen": "escena_2_calendario",
+    "musica": "track-basic-intro.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -154,6 +157,7 @@
     "introduccion": "La luz del sol entra por tu ventana y perfora tu cráneo.",
     "narracion": "Te despiertas pasado el mediodía con la boca seca y la cabeza dándote vueltas. Al revisar tu celular, ves 15 mensajes del grupo de tu proyecto integrador preguntando por tu parte del código. Te das cuenta del grave error que cometiste.",
     "imagen": "escena_2_alt_fiesta",
+    "musica": "track-medio-intraquilo.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -181,6 +185,7 @@
     "introduccion": "El tiempo que perdiste de fiesta ya no se recupera.",
     "narracion": "Intentas leer los requerimientos del proyecto, pero las letras bailan en la pantalla. Estás demasiado cansado y desmotivado. Tratas de avanzar algo, pero sabes que tu rendimiento está por los suelos.",
     "imagen": "escena_3_resaca",
+    "musica": "track-melancolico.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -208,6 +213,7 @@
     "introduccion": "Revisando las tareas pendientes, se te congela la sangre.",
     "narracion": "Descubres un problema crítico: tienes pendiente una parte gigante de un proyecto integrador que vale casi el 40% de la nota final. Postergar este entregable es el primer paso para terminar pagando un ciclo extraordinario. El reloj corre y la lógica de negocio es complicadísima.",
     "imagen": "escena_3_laptop",
+    "musica": "track-estresado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -269,6 +275,7 @@
     "introduccion": "El profe revisa tu diagrama de clases y suelta un suspiro.",
     "narracion": "'Chunga, estás complicando la arquitectura en vano', te dice. En 15 minutos de garabatos en su pizarra acrílica, te explica un patrón de diseño que resuelve tu cuello de botella. Te sientes un poco tonto, pero tu mente acaba de expandirse enormemente.",
     "imagen": "escena_3_profesor",
+    "musica": "track-intelectual.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -296,6 +303,7 @@
     "introduccion": "Con el proyecto a salvo, te diriges a tu zona de confort académico.",
     "narracion": "Te encierras en la biblioteca de Tecsup. El ambiente huele a libros antiguos y café barato. Tienes la opción de aislarte del mundo para repasar a tu propio ritmo, o invitar a unos compañeros de clase para estudiar en grupo y apoyarse mutuamente.",
     "imagen": "escena_4_biblioteca",
+    "musica": "track-basic-intro.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -316,7 +324,7 @@
         }
       },
       {
-        "texto": "Armar un grupo de estudio en un cubículo de la biblioteca",
+        "texto": "Armar un grupo de estudio in un cubículo de la biblioteca",
         "nodo_destino_id": "4_GROUP_STUDY",
         "introduccion_destino": "Llamas a un par de vros. Ocupan una pizarra y empiezan a debatir cómo normalizar una base de datos.",
         "requisitos": {
@@ -340,6 +348,7 @@
     "introduccion": "El grupo de estudio va bien durante la primera hora.",
     "narracion": "Logran resolver un par de ejercicios pesados de Redes. Sin embargo, uno de tus amigos saca su celular y empieza a mostrar videos graciosos. Otro sugiere pedir unas pizzas y dejar el estudio 'para después de comer'. La sesión está a punto de descarrilarse.",
     "imagen": "escena_4_grupo",
+    "musica": "track-medio-intraquilo.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -384,6 +393,7 @@
     "introduccion": "La biblioteca cierra y los echan.",
     "narracion": "Sales con el estómago lleno de pizza pero con la cabeza completamente vacía. Te despides de tus amigos sabiendo que acaban de botar a la basura la tarde más importante de la semana. Ya es muy tarde para estudiar solo.",
     "imagen": "escena_4_distraidos",
+    "musica": "track-melancolico.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -411,6 +421,7 @@
     "introduccion": "Llegas al instituto arrastrando los pies.",
     "narracion": "Intentas estudiar en los pasillos de Tecsup minutos antes de las evaluaciones. El ruido de los demás alumnos y tu propia desesperación hacen que las fórmulas de redes parezcan jeroglíficos. Estás pagando caro tus malas decisiones previas.",
     "imagen": "escena_4_pasillo",
+    "musica": "track-melancolico.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -438,6 +449,7 @@
     "introduccion": "Tarde o temprano, las actas se actualizan.",
     "narracion": "Subieron las notas de la última práctica grabada y el número en rojo es un golpe directo al estómago. No es lo que esperabas. Sientes el impulso de tirar la toalla, pero tienes que decidir cómo reaccionar ante la caída de tu promedio.",
     "imagen": "escena_5_notas",
+    "musica": "track-estresado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -499,6 +511,7 @@
     "introduccion": "Abres el PDF de tu pata de quinto ciclo.",
     "narracion": "El resumen se ve increíble, todo está resaltado. Empiezas a memorizar las estructuras, pero te das cuenta de que el temario cambió el ciclo pasado. Estás estudiando librerías obsoletas y conceptos que el ingeniero actual ya no enseña.",
     "imagen": "escena_5_apuntes_viejos",
+    "musica": "track-estresado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -526,6 +539,7 @@
     "introduccion": "La noche es larga cuando el código no compila.",
     "narracion": "Son las 3:00 AM. La taza de café está vacía y tus ojos arden frente a la pantalla. El cansancio te pide a gritos que te vayas a dormir, pero sabes perfectamente que todavía quedan arquitecturas complejas que repasar para el examen de mañana.",
     "imagen": "escena_6_madrugada",
+    "musica": "track-tecleando.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -587,6 +601,7 @@
     "introduccion": "Te vas a dormir confiado, creyendo que dominas la materia.",
     "narracion": "La IA te lo explicó tan simple que parecía fácil. Sin embargo, al despertar te das cuenta de que no sabes cómo implementar el código desde cero. Reconoces la teoría, pero tus manos no tienen memoria muscular para la sintaxis real.",
     "imagen": "escena_6_chatgpt",
+    "musica": "track-tecleando.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -614,6 +629,7 @@
     "introduccion": "Despiertas tarde, con la mente entumecida.",
     "narracion": "Faltan menos de 24 horas para el examen y no has abierto ni una sola diapositiva. El pánico empieza a reemplazar a tu flojera, pero el tiempo ya no se puede estirar. No hay atajos mágicos a estas alturas.",
     "imagen": "escena_6_cama",
+    "musica": "track-melancolico.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -641,6 +657,7 @@
     "introduccion": "El cuerpo siempre pasa factura.",
     "narracion": "A mitad del examen, el exceso de cafeína y las cero horas de sueño te golpean. La pantalla empieza a borrarse, te da un sudor frío insoportable y las manos te tiemblan tanto que no puedes escribir la lógica. El ingeniero nota tu estado.",
     "imagen": "escena_7_colapso",
+    "musica": "track-estresado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -668,6 +685,7 @@
     "introduccion": "Llegó la hora cero. Todos en sus módulos.",
     "narracion": "Día del primer examen final: Programación. El aula está en un silencio sepulcral. Te topas con una pregunta maldita que no se parece a nada de lo estudiado. El chico de tu izquierda (el chanconcito) está programando a la velocidad de la luz, y su monitor está muy visible.",
     "imagen": "escena_7_examen",
+    "musica": "track-agitado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -707,7 +725,7 @@
       {
         "texto": "Ceder a la tentación y copiarle la función al chico de al lado",
         "nodo_destino_id": "7_CHEAT_PEEK",
-        "introduccion_destino": "Estiras el cuello disimuladamente, pero el ingeniero te ha estado observando por el reflejo del vidrio. 'Chunga, cierre su sesión y acompáñeme', resuena en todo el laboratorio.",
+        "introduccion_destino": "Estras el cuello disimuladamente, pero el ingeniero te ha estado observando por el reflejo del vidrio. 'Chunga, cierre su sesión y acompáñeme', resuena en todo el laboratorio.",
         "requisitos": {
           "disciplina_minima": 0,
           "inteligencia_practica_minima": 0,
@@ -746,6 +764,7 @@
     "introduccion": "El silencio en el aula es absoluto mientras te levantas.",
     "narracion": "Todo el mundo te mira. El ingeniero apaga tu máquina directamente desde el servidor maestro. Te informa que la copia en finales es causal de suspensión automática en Tecsup.",
     "imagen": "escena_7_cheat",
+    "musica": "track-estresado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -790,6 +809,7 @@
     "introduccion": "Eres el primero en entregar y salir del laboratorio.",
     "narracion": "Mientras caminas por el campus, empiezas a recordar líneas de tu código. Te das cuenta de que declaraste una variable global que seguramente va a crashear la evaluación del profesor. La ansiedad te carcome.",
     "imagen": "escena_7_rush",
+    "musica": "track-agitado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -834,6 +854,7 @@
     "introduccion": "El verdadero estrés ocurre después de entregar la prueba.",
     "narracion": "En el pasillo, el grupo de la clase debate las respuestas a gritos. '¡Salía un Optional!', grita uno. Ves a tu vro apoyado en la pared, con los ojos llorosos porque no logró compilar su proyecto a tiempo.",
     "imagen": "escena_8_pasillo",
+    "musica": "track-confianza.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -895,6 +916,7 @@
     "introduccion": "Tu amigo se limpia la cara y respira mejor.",
     "narracion": "'Gracias, Chunga, de verdad', te dice. Al ayudarlo a bajar su ansiedad, paradójicamente sientes que tus propios nervios desaparecen. Puede que tengas menos tiempo para prepararte, pero tu moral está altísima.",
     "imagen": "escena_8_karma",
+    "musica": "track-confianza.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -939,6 +961,7 @@
     "introduccion": "No hay descanso para el desarrollador.",
     "narracion": "Examen de Base de Datos. El monitor te escupe un enunciado monstruoso que exige anidar múltiples JOINs, HAVING y subconsultas correlacionadas. El servidor de prueba se pone lento y los minutos vuelan. Parece un laberinto sin salida.",
     "imagen": "escena_9_sql",
+    "musica": "track-agitado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1000,6 +1023,7 @@
     "introduccion": "El icono de carga sigue dando vueltas.",
     "narracion": "Tu consulta ineficiente ha provocado un cuello de botella en el servidor local de tu módulo. El ingeniero suspira detrás de ti. Te pone medio puntaje porque los datos salieron, pero destruiste la optimización.",
     "imagen": "escena_9_brute",
+    "musica": "track-agitado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1044,6 +1068,7 @@
     "introduccion": "La peor sensación para un estudiante.",
     "narracion": "Sientes que acabas de tirar a la basura todo el curso de Base de Datos. La desmotivación amenaza con arruinar tu desempeño en los exámenes que faltan hoy.",
     "imagen": "escena_9_blanco",
+    "musica": "track-estresado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1088,6 +1113,7 @@
     "introduccion": "Las batallas se ganan, pero la guerra continúa.",
     "narracion": "Llevas días durmiendo poquísimo y comiendo apurado. Te cuesta concentrarte en tareas simples y el dolor de cabeza te avisa que juegas con fuego. Tienes un receso largo antes del examen de Redes y necesitas administrar tus últimas fuerzas.",
     "imagen": "escena_10_cansancio",
+    "musica": "track-confianza.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1149,6 +1175,7 @@
     "introduccion": "El cuerpo humano no es una máquina, vro.",
     "narracion": "Mientras entras al laboratorio de Redes, el combo letal de estrés y comida pesada te pasa factura. Sientes una punzada en el estómago y náuseas. Tu concentración se va al tacho intentando no vomitar frente al rack de servidores.",
     "imagen": "escena_10_comida",
+    "musica": "track-estresado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1193,6 +1220,7 @@
     "introduccion": "Llegó el terror de muchos estudiantes.",
     "narracion": "Examen de Redes. Te entregan una topología enorme con direccionamiento VLSM. El tiempo corre como loco y hay preguntas de teoría que parecen sacadas de un manual de certificación. Si te congelas en la configuración de los routers, no llegarás a la parte de enrutamiento.",
     "imagen": "escena_11_redes",
+    "musica": "track-agitado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1237,6 +1265,7 @@
     "introduccion": "Calculaste mal un bit y todo el esquema se vino abajo.",
     "narracion": "Cuando terminas el subneteo y levantas la mirada, te das cuenta de que el examen termina en 10 minutos. Has dejado toda la teoría en blanco y tus routers ni siquiera tienen las IPs asignadas.",
     "imagen": "escena_11_vlsm",
+    "musica": "track-agitado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1281,6 +1310,7 @@
     "introduccion": "Últimas 24 horas del ciclo.",
     "narracion": "Has sobrevivido hasta ahora. Tu cabeza es una licuadora de scripts, comandos y patrones de SwiftUI. Queda el jefe final: Desarrollo Móvil. Mirando tutoriales en YouTube, encuentras un nuevo framework que hace las vistas 10 veces más rápido, pero no lo han enseñado en clase.",
     "imagen": "escena_12_apuntes",
+    "musica": "track-confianza.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1325,6 +1355,7 @@
     "introduccion": "La innovación a veces es el enemigo del progreso.",
     "narracion": "Al intentar usar tu framework nuevo, te das cuenta de que no sabes cómo integrarlo con la arquitectura MVVM que exige el profesor. Ahora tienes dos lógicas mezcladas en tu cabeza y cero dominio sobre cualquiera de las dos.",
     "imagen": "escena_12_framework",
+    "musica": "track-confianza.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1369,6 +1400,7 @@
     "introduccion": "El ambiente se siente definitivo.",
     "narracion": "Examen final de Móviles. El mismo ingeniero que te pilló distraído la primera semana camina entre las filas, vigilando cada pantalla de Xcode. Abres el proyecto base. Todo tu ciclo se reduce a que este código compile y muestre datos de la API.",
     "imagen": "escena_13_moviles",
+    "musica": "track-final-jefe.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1430,6 +1462,7 @@
     "introduccion": "El simulador se cierra bruscamente.",
     "narracion": "La temida pantalla roja de Xcode inunda tu código. Rompiste la navegación principal intentando arreglar un texto mal centrado. El sistema se bloquea y el tiempo se acaba. Entregas un proyecto que crashea al iniciar.",
     "imagen": "escena_13_crash",
+    "musica": "track-final-jefe.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1474,6 +1507,7 @@
     "introduccion": "El silencio después de la guerra.",
     "narracion": "Se acabó. Las aulas se vaciaron. Ya no puedes corregir ninguna consulta ni sumar un solo punto. Estás en tu cuarto frente a la laptop. Solo te queda actualizar la página de notas de la intranet de Tecsup mientras el servidor procesa las actas finales. La ansiedad es insoportable.",
     "imagen": "escena_14_intranet",
+    "musica": "track-estresado.mp3",
     "es_final": false,
     "decisiones": [
       {
@@ -1544,6 +1578,7 @@
     "introduccion": "El portal carga y parece que hubiera un error de sistema...",
     "narracion": "¡Tus notas están en 19 y 20! Eres el primer puesto de la carrera. No solo dominaste la presión, la disciplina y las trasnochadas, sino que ayudaste a tus amigos y demostraste de qué estás hecho. Hasta el profesor más duro te manda un correo felicitándote. Eres un dios del código, vro.",
     "imagen": "escena_15_dios",
+    "musica": "track-final-dios.mp3",
     "es_final": true,
     "decisiones": []
   },
@@ -1553,6 +1588,7 @@
     "introduccion": "El portal carga por completo y tus ojos van directo al promedio.",
     "narracion": "¡Aprobado en todo! No habrás sacado el primer puesto histórico, pero venciste al sistema. Tras semanas de estrés, lograste salir invicto. Tu madre te pregunta desde la cocina cómo te fue. Sonríes aliviado y respondes: 'Seguimos vivos, mamá'. Has dominado Tecsup con disciplina pura.",
     "imagen": "escena_15_aprobado",
+    "musica": "track-final-canon.mp3",
     "es_final": true,
     "decisiones": []
   },
@@ -1562,6 +1598,7 @@
     "introduccion": "El portal se renderiza lentamente. Tienes miedo de mirar.",
     "narracion": "Aprobaste Móviles y Base de Datos, pero el 10 rojo en Redes te destruye la vista. Te vas a bica en un curso. Salvaste el año y no te botan, pero el costo físico y mental fue altísimo. Te tiras a la cama sintiendo que ganaste la batalla, pero perdiste tu salud en el intento.",
     "imagen": "escena_15_gris",
+    "musica": "truck-final-supletorio.mp3",
     "es_final": true,
     "decisiones": []
   },
@@ -1571,6 +1608,7 @@
     "introduccion": "Los círculos de carga giran y el sistema te escupe tu realidad.",
     "narracion": "Programación: Reprobado. Redes: Reprobado. Móviles: 08. La pantalla se llena de rojo sangriento. Las trasnochadas jugando, la resaca y la falta de disciplina te pasaron una factura impagable. Toca afrontar las consecuencias, explicarle a tus padres el desastre y pagar el ciclo extraordinario. Game Over, vro.",
     "imagen": "escena_15_jalado",
+    "musica": "track-final-reprobado.mp3",
     "es_final": true,
     "decisiones": []
   },
@@ -1580,6 +1618,7 @@
     "introduccion": "No llegaste ni a abrir la intranet.",
     "narracion": "Una falta ética grave en Tecsup no se perdona. Fuiste sorprendido copiando en pleno examen final. Te anulan todas las pruebas, repruebas automáticamente todos los cursos del bloque y recibes una suspensión formal de la institución. Elegiste el atajo, y el sistema te devoró sin piedad.",
     "imagen": "escena_15_expulsado",
+    "musica": "track-final-expulsado.mp3",
     "es_final": true,
     "decisiones": []
   }
